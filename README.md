@@ -8,6 +8,6 @@
   [![React](https://img.shields.io/badge/react-16.0+-blue.svg?style=plastic)](https://react.docschina.org/)
   [![Node](https://img.shields.io/badge/node-10.15.1~14.17.5-black.svg?style=plastic)](https://nodejs.org/en/)
 
-[![SouthLiu's github stats](https://github-readme-stats.vercel.app/api?username=SouthLiu&show_icons=true)](https://github.com/SouthLiu)
+<!-- [![SouthLiu's github stats](https://github-readme-stats.vercel.app/api?username=SouthLiu&show_icons=true)](https://github.com/SouthLiu) -->
 
 
