@@ -3,8 +3,6 @@
 - 💼 工作: Vue或React
 - 📚 语言:
   ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
-  ![Node](https://img.shields.io/badge/-Node-black?style=plastic&logo=node)
 - 🔧 技术栈:
   [![Vue](https://img.shields.io/badge/vue-2.0~3.0+-green.svg?style=plastic)](https://cn.vuejs.org/)
   [![React](https://img.shields.io/badge/react-16.0+-blue.svg?style=plastic)](https://react.docschina.org/)
