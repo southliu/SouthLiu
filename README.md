@@ -16,7 +16,7 @@
 📫 邮箱:
   1275093225@qq.com
 
-![](https://visitor-badge.glitch.me/badge?page_id=SouthlLiu)
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=SouthlLiu) -->
 
 <!-- [![SouthLiu's github stats](https://github-readme-stats.vercel.app/api?username=SouthLiu&show_icons=true)](https://github.com/SouthLiu) -->
 
