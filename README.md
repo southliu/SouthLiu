@@ -7,6 +7,7 @@
 
 - 📚 语言:
   ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+  ![C++](https://img.shields.io/badge/-C++-black?style=plastic&logo=c%2B%2B)
   ![Golang](https://img.shields.io/badge/-Golang-black?style=plastic&logo=Go)
 
 - 🔧 技术栈:
