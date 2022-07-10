@@ -8,13 +8,11 @@
 - 📚 语言:
   ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![C++](https://img.shields.io/badge/-C++-black?style=plastic&logo=c%2B%2B)
-  ![Golang](https://img.shields.io/badge/-Golang-black?style=plastic&logo=Go)
 
 - 🔧 技术栈:
   [![Vue](https://img.shields.io/badge/Vue-2.0~3.0-green.svg?style=plastic)](https://cn.vuejs.org/)
   [![React](https://img.shields.io/badge/React-16.0+-blue.svg?style=plastic)](https://react.docschina.org/)
   [![Express](https://img.shields.io/badge/Express-4.0+-black.svg?style=plastic)](https://www.expressjs.com.cn/)
-  [![Gin](https://img.shields.io/badge/Gin-14.0+-yellow.svg?style=plastic)](https://gin-gonic.com/)
 
 - 📫 邮箱:
   1275093225@qq.com
