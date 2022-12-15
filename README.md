@@ -23,6 +23,6 @@
 
 
 ##### 一些好玩的项目
-- [south-cli](https://github.com/southliu/south-cli) ：一个快速生成Vue和React的脚手架工具。![GitHub stars](https://img.shields.io/github/stars/southliu/south-cli?style=flat)
-- [react-admin](https://github.com/southliu/react-admin) ：基于React18,Typescript,Vite,Antd的中后台管理项目。![GitHub stars](https://img.shields.io/github/stars/southliu/react-admin?style=flat)
-- [vue-admin](https://github.com/southliu/vue-admin) ：基于Vue3,Typescript,Vite,Antd Vue的中后台管理项目。![GitHub stars](https://img.shields.io/github/stars/southliu/vue-admin?style=flat)
+- [south-cli](https://www.npmjs.com/package/south-cli)：🧰 一个快速生成Vue和React的CLI工具  ![GitHub stars](https://img.shields.io/github/stars/southliu/south-cli)  [![](https://img.shields.io/npm/dt/south-cli)](https://www.npmjs.com/package/south-cli)
+- [react-admin](https://github.com/southliu/react-admin) ：⚛️ 基于React18,Typescript,Vite,Antd的中后台管理项目。![GitHub stars](https://img.shields.io/github/stars/southliu/react-admin)
+- [vue-admin](https://github.com/southliu/vue-admin) ：🌿 基于Vue3,Typescript,Vite,Antd Vue的中后台管理项目。![GitHub stars](https://img.shields.io/github/stars/southliu/vue-admin)
