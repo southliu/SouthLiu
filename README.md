@@ -15,7 +15,7 @@
   [![Node.Js](https://img.shields.io/badge/Node.js-14.0+-black.svg?style=plastic)](http://nodejs.p2hp.com/)
 
 - 📫 邮箱:
-  1275093225@qq.com
+  southliu@outlook.com
 
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=SouthlLiu) -->
 
