@@ -7,7 +7,7 @@
 
 - 📚 语言:
   ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![C++](https://img.shields.io/badge/-C++-black?style=plastic&logo=c%2B%2B)
+  ![Node](https://img.shields.io/badge/-Node-black?style=plastic&logo=node.js)
 
 - 🔧 技术栈:
   [![React](https://img.shields.io/badge/React-16.0+-blue.svg?style=plastic)](https://react.docschina.org/)
