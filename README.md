@@ -1,18 +1,18 @@
 # 初来乍到  ![](https://southliu.github.io/)👋
 
-- 💼 工作: 
+- 🌐 前端: 
   ![React](https://img.shields.io/badge/-React-black?style=plastic&logo=react)
   ![Vue](https://img.shields.io/badge/-Vue-black?style=plastic&logo=vue.js)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=plastic&logo=typeScript)
 
-- 📚 语言:
-  ![Javascript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
-  ![Node](https://img.shields.io/badge/-Node-black?style=plastic&logo=node.js)
+- 💻 后端:
+  ![Nest.js](https://img.shields.io/badge/Nest.js-black?logo=nestjs)
+  ![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=node.js)
 
 - 🔧 技术栈:
   [![React](https://img.shields.io/badge/React-16.0+-blue.svg?style=plastic)](https://react.docschina.org/)
   [![Vue](https://img.shields.io/badge/Vue-2.0~3.0-green.svg?style=plastic)](https://cn.vuejs.org/)
-  [![Node.Js](https://img.shields.io/badge/Node.js-14.0+-black.svg?style=plastic)](http://nodejs.p2hp.com/)
+  [![Nest.Js](https://img.shields.io/badge/Nest.js-10.0+-black.svg?style=plastic)](https://nestjs.com/)
 
 - 📫 邮箱:
   southliu@outlook.com
