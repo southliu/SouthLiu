@@ -15,4 +15,4 @@
   [![Nest.Js](https://img.shields.io/badge/Nest.js-10.0+-black.svg?style=plastic)](https://nestjs.com/)
 
 - 📫 邮箱:
-  southliu@outlook.com
+  southliu@foxmail.com
