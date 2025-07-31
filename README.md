@@ -1,4 +1,4 @@
-# 初来乍到  ![](https://southliu.github.io/)👋
+# 初来乍到  ![](https://southliu.github.io/)[👋](https://views.whatilearened.today/views/github/southliu/deplives.svg)
 
 - 🌐 前端: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=JavaScript)
@@ -6,6 +6,7 @@
 
 - 💻 后端:
   ![Node.js](https://img.shields.io/badge/-Node.js-black?style=plastic&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-black?style=plastic&logo=python)
 
 - 🔧 技术栈:
   [![React](https://img.shields.io/badge/React-16.0+-blue.svg?style=plastic)](https://react.docschina.org/)
