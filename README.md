@@ -1,4 +1,4 @@
-# 初来乍到  ![](https://southliu.github.io/)[👋](https://views.whatilearened.today/views/github/southliu/deplives.svg)
+# 初来乍到 👋 ![👋](https://views.whatilearened.today/views/github/southliu/deplives.svg)
 
 - 🌐 前端: 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=JavaScript)
@@ -15,3 +15,4 @@
 
 - 📫 邮箱:
   iamsouth@foxmail.com
+
